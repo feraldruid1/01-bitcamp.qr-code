@@ -23,14 +23,22 @@ body {
     border-radius: 10px;
   }
   h1 {
+    font-family: 'Outfit';
     color: #1f314f;
     font-size: 22px;
     text-align: center;
+    font-weight: 700;
+  font-size: 22px;
+  line-height: 28px;
   }
   p {
+    font-family: 'Outfit';
     color: #7d889e;
     font-size: 15px;
     text-align: center;
     margin-left: 32px;
     margin-right: 32px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
   }
